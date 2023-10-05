@@ -25,9 +25,10 @@
     <string name="charly">Charly</string>
     <string name="description8">No la pega, ni la pegara</string>
     //cynthia
-    <string name="cynthia">La party</string>
-    <string name="description9">La diversion en persona</string>
+    <string name="cynthia">La CopeaOut</string>
+    <string name="description9">El super poder que posee es devastador con la mente de su gymbro, combina cada outfit que lleves al gym
+        sin informacion de lo que llevaras y lo malo es que te culpara y acusara de la espias</string>
     //elena
     <string name="elena">Baston con mochila</string>
-    <string name="description10">Su gran habilidad es en meterse entre su madre y de ti en caso de que su madre te quiera dar un madrazo</string>
+    <string name="description10">Su gran habilidad es el meterse entre su madre y tu persona en caso de que su madre te quiera dar un madrazo</string>
 </resources>
